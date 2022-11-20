@@ -1,0 +1,33 @@
+1. WAP to print Hello World.
+2. WAP to add, subtract, divide and multiply 2 numbers.
+3. WAP to find the average of 3 numbers.
+4. WAP to find the Simple Interest.
+5. WAP to print your name.
+6. WAP to find whether the given number is an even number or not.
+7. WAP to check if the student has passed or failed.
+8. WAP to find the quadrant in which the given point lies.
+9. WAP to make a Calculator.
+10. WAP to make a calculator using switch case.
+11. WAP to print the table of a number using while loop.
+12. WAP to print the table of the given number using for loop.
+13. WAP to find if the given character is a vowel or not.
+14. WAP to find the reverse of a given number.
+15. WAP to check if the given number is a palindrome or not.
+16. WAP to find the factorial of a number using functions.
+17. WAP to check if the given number is an armstrong number or not.
+18. WAP to print the Fibonacci series till n terms.
+19. Print the following Pattern using loops:
+       *
+       **
+       ***
+       ****
+       *****
+20. Print the given pattern using loops:
+       *****
+       ****
+       ***
+       **
+       *
+21. WAP to swap two numbers using a third variable.
+22. WAP to swap two numbers without using the third variable.
+23. WAP to find the sum of the digits using do-while.
