@@ -3,5 +3,6 @@
 void main()
 {
     printf("Hello World!\n");
+    //ahh this is so tiring!
     getch();
 }
