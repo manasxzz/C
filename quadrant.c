@@ -15,4 +15,5 @@ void main()
     printf("\nThe Given point lies in the IIIrd Quadrant.");
     else
     printf("\nThe Given point lies in the IVth Quadrant.")
+    getch();
 }
