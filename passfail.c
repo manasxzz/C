@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+#include <stdlib.h>
 void main()
 {
     int phy,chem,bio,eng,cs,percentage;
@@ -14,6 +15,8 @@ void main()
     printf("\nEnter Marks Obtained in Computer Science: ");
     scanf("%d",&cs);
     percentage=(phy+chem+bio+eng+cs)/5;
+    system("cls");
+    printf("****************RESULTS****************\n\nPercentage Obtained: %d",percentage);
     if(percentage>40)
     printf("\nPASS CERTIFICATE AWARDED");
     else
