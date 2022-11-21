@@ -14,8 +14,7 @@ void main()
     printf("\nEnter Marks Obtained in Computer Science: ");
     scanf("%d",&cs);
     percentage=(phy+chem+bio+eng+cs)/5;
-    clrscr();
-    if(percentage<40)
+    if(percentage>40)
     printf("\nPASS CERTIFICATE AWARDED");
     else
     printf("\nPASS CERTIFICATE NOT AWARDED");
