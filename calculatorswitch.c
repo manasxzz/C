@@ -43,6 +43,26 @@ void main()
             printf("********ADDITION********\n\n%d+%d=%d",x,y,add(x,y));
             getch();
             break;
+            
+            case 2:
+            printf("********SUBTRACTION********\n\n%d-%d=%d",x,y,sub(x,y));
+            getch();
+            break;
+
+            case 3:
+            printf("********MULTIPLICATION********\n\n%dx%d=%d",x,y,mul(x,y));
+            getch();
+            break;
+
+            case 4:
+            printf("********DIVISION********\n\n%d/%d=%d",x,y,divide(x,y));
+            getch();
+            break;
+
+            default:
+            printf("********WRONG INPUT********");
+            getch();
+            break;
 
         }
         i++;
