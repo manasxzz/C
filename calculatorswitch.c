@@ -17,15 +17,15 @@ int mul(int a,int b)
     return a*b;
 }
 
-int div(int a,int b)
+int divide(int a,int b)
 {
     return a/b;
 }
 
 void main()
 {
-    int x,y,choice;
-    while(true)
+    int x,y,choice,i=1;
+    while(i<4)
     {
         system("cls");
         printf("**************Calculator*************");
@@ -40,9 +40,11 @@ void main()
         switch(choice)
         {
             case 1:
-            printf("********ADDITION********\n\n%d+%d=%d",x,y,sum(x,y));
+            printf("********ADDITION********\n\n%d+%d=%d",x,y,add(x,y));
+            getch();
             break;
-            
+
         }
+        i++;
     }
 }
