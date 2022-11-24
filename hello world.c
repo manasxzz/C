@@ -3,7 +3,7 @@
 void main()
 {
     printf("Hello World!\n");
-    //ahh this is so tiring!
-    //where did the changes go?
+    // ahh this is so tiring!
+    // where did the changes go?
     getch();
 }
