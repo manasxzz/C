@@ -1,3 +1,4 @@
+//2. WAP to add, subtract, divide and multiply 2 numbers.
 #include <stdio.h>
 #include <conio.h>
 void main()

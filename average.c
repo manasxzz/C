@@ -1,3 +1,4 @@
+//3. WAP to find the average of 3 numbers.
 #include <stdio.h>
 #include <conio.h>
 void main()
